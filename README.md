@@ -1,2 +1,3 @@
 # Autoclipperoneofone
-Terams and privacy
+Public Terms and Privacy Policy for AutoClipper
+
