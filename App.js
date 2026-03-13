@@ -1,7 +1,7 @@
 function login(){
 
-const client_key = "TU_CLIENT_ID";
-const redirect_uri = "https://tudominio.com/callback";
+const client_key = "aw5hxji3xptu7r10";
+const redirect_uri = "https://pabonfelipe22-eng.github.io/Autoclipperalfaone/";
 
 const scope = "user.info.basic,video.upload,video.publish";
 
